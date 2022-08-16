@@ -26,6 +26,8 @@ New:
 
 Now we must edit the responses
 
+open the customresponses.txt file with any text editor of your choice
+
 Replace any of the 5 responses with your own
 
 Original:
