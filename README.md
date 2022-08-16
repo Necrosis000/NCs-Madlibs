@@ -1,7 +1,7 @@
 # ![Icon](https://github.com/Necrosis000/Necrosis-Customizable-Madlibs/blob/main/app.ico) Necrosis's Customizable Madlibs
 A fully customizable madlibs program made in python!
 
-###### How to download:
+## How to download:
  First go to right and click releases
  
  Find the latest version and click ncml.zip and it will auto-download
@@ -9,7 +9,7 @@ A fully customizable madlibs program made in python!
  Now extract the zip and run the .exe and you are good to go!
 
 
-###### How to use:
+## How to use:
 
 Open the customprompts.txt file with any text editor of your choice
 
