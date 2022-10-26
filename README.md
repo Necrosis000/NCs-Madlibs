@@ -1,4 +1,3 @@
-[![Documentation Status](https://readthedocs.org/projects/necrosis-customizable-madlibs/badge/?version=latest)](https://necrosis-customizable-madlibs.readthedocs.io/en/latest/?badge=latest)
 # ![Icon](https://github.com/Necrosis000/Necrosis-Customizable-Madlibs/blob/main/app.ico) Necrosis's Customizable Madlibs
 A fully customizable madlibs program made in python!
 
