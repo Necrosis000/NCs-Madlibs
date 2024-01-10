@@ -4,39 +4,18 @@ A fully customizable madlibs program made in python!
 ## How to download:
  First go to right and click releases
  
- Find the latest version and click ncml.zip and it will auto-download
+ Find the latest version and click ncsmadlibs1.1.zip and it will auto-download
  
  Now extract the zip and run the .exe and you are good to go!
 
-
 ## How to use:
 
-Open the customprompts.txt file with any text editor of your choice
+You can use the base madlibs if you want but to make your own click:
 
-Replace any of the 5 prompts with your own:
+### File
+### New
+And add your own sections (Max is 7)
 
-Original:
-```
-  Enter a name:
-```
-New:
-```
-  Enter a cool name:
-```
+It doesnt matter if it's less then 7 it will still work!
 
-Now we must edit the responses
-
-open the customresponses.txt file with any text editor of your choice
-
-Replace any of the 5 responses with your own
-
-Original:
-```
-  Hi My name is:
-```
-New:
-```
-  Hi My super cool name is:
-```
-
-**NOTE:** Each document must have 5 prompts and responses No more no less.
+Go have some fun and make some funny madlibs!
