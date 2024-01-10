@@ -1,0 +1,24 @@
+{
+    "totalquestions": 7,
+    "questions": {
+        "question1": "Enter a name:",
+        "question2": "Enter a hobby:",
+        "question3": "Enter a job:",
+        "question4": "Enter a item:",
+        "question5": "Enter a food:",
+        "question6": "Enter a fear:",
+        "question7": "Enter a second name:"
+    },
+    "responses": {
+        "response1": "Hi my name is ",
+        "response2": "My hobby is ",
+        "response3": "And When i grow up i want to be a ",
+        "response4": "I also use ",
+        "response5": "My favourite food is ",
+        "response6": "Also i have a fear of ",
+        "response7": "i have a friend named "
+    }
+}
+
+
+
