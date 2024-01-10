@@ -1,4 +1,4 @@
-# ![Icon](https://github.com/Necrosis000/Necrosis-Customizable-Madlibs/blob/main/app.ico) Necrosis's Customizable Madlibs
+# ![Icon](https://github.com/Necrosis000/Necrosis-Customizable-Madlibs/blob/main/app.ico) NC's Madlibs
 A fully customizable madlibs program made in python!
 
 ## How to download:
