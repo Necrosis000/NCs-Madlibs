@@ -1,9 +1,0 @@
-Enter a name:
-Enter a job:
-Enter a food:
-Enter a fear:
-Enter a second name:
-
-
-
-# There has to be 5 prompts
