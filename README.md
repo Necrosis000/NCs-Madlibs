@@ -1,6 +1,9 @@
 # ![Icon](https://github.com/Necrosis000/Necrosis-Customizable-Madlibs/blob/main/app.ico) NC's Madlibs
 A fully customizable madlibs program made in python!
 
+### THIS IS THE OLD MADLIBS BRANCH! IF YOU ARE LOOKING FOR THE NEW ONE HERE: https://github.com/Necrosis000/NCs-Madlibs/tree/main
+### THIS BRANCH IS THE ONE FOR THE OLD CONSOLE PROGRAM
+
 ## How to download:
  First go to right and click releases
  
